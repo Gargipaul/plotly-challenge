@@ -95,6 +95,4 @@ Use Flask API starter code to serve the data needed for your plots.
 
 - - -
 
-### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
