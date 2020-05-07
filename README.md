@@ -77,7 +77,7 @@ The following task is completely optional and is very advanced.
 
 - - -
 
-Flask API
+## Flask API
 
 Use Flask API starter code to serve the data needed for your plots.
 
