@@ -30,7 +30,7 @@ The sample metadata is displayed from the route /metadata/<sample>
 Each key/value pair is displayed from the metadata JSON object somewhere on the page.
 All of the plots are updated any time that a new sample is selected.
 
-Step 2 - Heroku
+## Step 2 - Heroku
 Flask app is deployed to Heroku using sqlite file for the database.
 
 Hints
