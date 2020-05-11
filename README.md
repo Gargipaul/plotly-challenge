@@ -87,9 +87,7 @@ Use Flask API starter code to serve the data needed for your plots.
 
 ## Hints
 
-* Don't forget to `pip install -r requirements.txt` before you start your server.
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
+* `pip install -r requirements.txt` before you start your server.
 
 * Refer to the [Plotly.js Documentation](https://plot.ly/javascript/) when building the plots.
 
