@@ -4,17 +4,11 @@
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
-## Before You Begin
+**Belly_Button_Diversity**.
 
-1. Create a new repository for this project called `plotly-challenge`. **Do not add this homework to an existing repository**.
+1. This is a full stack app so add your html, js, css, python and sqlite files.
 
-2. Clone the new repository to your computer.
 
-3. Inside your local git repository, create a directory for the Plotly challenge. Use the folder name to correspond to the challenge: **Belly_Button_Diversity**.
-
-4. This is a full stack app so add your html, js, css, python and sqlite files.
-
-5. Push the above changes to GitHub or GitLab.
 
 ## Step 1 - Plotly.js
 
