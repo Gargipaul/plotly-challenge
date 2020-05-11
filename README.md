@@ -1,9 +1,9 @@
-# Plotly.JavaScript Challenge - Belly Button Biodiversity
+# Plotly.js Challenge - Belly Button Biodiversity
 
 An interactive dashboard is built to explore the Belly Button Biodiversity DataSet using plotly.js and the app is deployed on heroku.Follow the link: https://gargi-dec-2-2019.herokuapp.com
 
-## Step 1 - Plotly.JavaScript
-Plotly.JavaScript is used to build interactive charts for the dashboard.
+## Step 1 - Plotly.js
+Plotly.js is used to build interactive charts for the dashboard.
 
 A PIE chart is created that uses data from samples route (/samples/<sample>) to display the top 10 samples.
 
@@ -33,7 +33,7 @@ All of the plots are updated any time that a new sample is selected.
 ## Step 2 - Heroku
 Flask app is deployed to Heroku using sqlite file for the database.
 
-Hints
+## Special instructions:
 Don't forget to pip install -r requirements.txt before you start your server.
 
 Use console.log inside of your JavaScript code to see what your data looks like at each step.
