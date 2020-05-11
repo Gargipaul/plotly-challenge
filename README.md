@@ -1,4 +1,5 @@
-Plotly.js Challenge - Belly Button Biodiversity
+# Plotly.js Challenge - Belly Button Biodiversity
+
 An interactive dashboard is built to explore the Belly Button Biodiversity DataSet using plotly.js and the app is deployed on heroku.Follow the link: https://new-belly-app.herokuapp.com
 
 Step 1 - Plotly.js
