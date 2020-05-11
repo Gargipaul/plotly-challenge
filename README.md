@@ -4,7 +4,7 @@
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
-### Before You Begin
+## Before You Begin
 
 1. Create a new repository for this project called `plotly-challenge`. **Do not add this homework to an existing repository**.
 
